@@ -1,15 +1,16 @@
+<img src="./ReadmeAsset/SmartViewIcon.png">
 ## What is SMARTVIEW?
 SMARTVIEW is a social phone review site, which means users can upload their reviews, personal experience
-with a certain smartphone product, or view reviews posted by other users.\\
+with a certain smartphone product, or view reviews posted by other users.\
 
 With the SMARTVIEW, we hope to solve the current problems by creating an web application, furthermore
 a community, where people can freely post their own reviews. Thus users can directly interact with each other,
-thereby increasing objectivity and accuracy of the reviews.
+thereby increasing objectivity and accuracy of the reviews.\
 
 ## UI 
 Header bar, which has 2 versions including one for browsing without authentication and one for
 authenticated user. The header bar is located on the top of the web interface
-![HeadBarAuthen]("/ReadmeAsset/HeadbarAuthen.png")
+<img src="/ReadmeAsset/HeadbarAuthen.png"">
 Header bar without authentication
 ![HeadBarAuthen]("/ReadmeAsset/HeadbarNoAuthen.png")
 Header bar with authentication

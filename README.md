@@ -11,22 +11,21 @@ thereby increasing objectivity and accuracy of the reviews.\
 Header bar, which has 2 versions including one for browsing without authentication and one for
 authenticated user. The header bar is located on the top of the web interface
 
-<img src="./ReadmeAsset/HeadbarNoAuthen.png"">
+<img src="./ReadmeAsset/HeadbarNoAuthen.png">
 
 Header bar without authentication
-![HeadBarAuthen]("./ReadmeAsset/HeadbarAuthen.png")
+<img src="./ReadmeAsset/HeadbarAuthen.png" alt="HeadBarAuthen">
 Header bar with authentication
 
-![HeadBarAuthen]("./ReadmeAsset/HomeScreen.png")
+<img src="./ReadmeAsset/HomeScreen.png" alt="HeadBarAuthen">
 For the trending page, its contents are also similar to the home page, but the previews of the posts are sorted
 by their likes and views, and users can click to the preview to see its content
 
-![HeadBarAuthen]("./ReadmeAsset/CreatePost.png")
+<img src="./ReadmeAsset/CreatePost.png" alt="HeadBarAuthen">
 As you can see, there are two buttons in the right side of the page which is used for creating new post and
 showing the posts the user has created. In the showing post page, user can choose to edit or delete their posts
 
-
-![HeadBarAuthen]("./ReadmeAsset/Admin.png")
+<img src="./ReadmeAsset/Admin.png" alt="HeadBarAuthen">
 For the administration page, it is the page that only visible to the authenticated user with admin role. In that
 page, the admins can see the post that is just created and waiting to be approved. Besides that, the admins can also
 see the posts that have been reported to decide to keep or delete them

@@ -10,9 +10,11 @@ thereby increasing objectivity and accuracy of the reviews.\
 ## UI 
 Header bar, which has 2 versions including one for browsing without authentication and one for
 authenticated user. The header bar is located on the top of the web interface
-<img src="./ReadmeAsset/HeadbarAuthen.png"">
+
+<img src="./ReadmeAsset/HeadbarNoAuthen.png"">
+
 Header bar without authentication
-![HeadBarAuthen]("./ReadmeAsset/HeadbarNoAuthen.png")
+![HeadBarAuthen]("./ReadmeAsset/HeadbarAuthen.png")
 Header bar with authentication
 
 ![HeadBarAuthen]("./ReadmeAsset/HomeScreen.png")
